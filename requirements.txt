@@ -1,0 +1,5 @@
+PyQt5==5.15.11
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.19.0
+reportlab==4.4.4
+pypdf==6.7.5
